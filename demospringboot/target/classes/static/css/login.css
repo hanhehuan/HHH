@@ -1,0 +1,7 @@
+body{overflow:hidden;background: #fff url(../images/logo.jpg) no-repeat fixed top;-webkit-background-size: cover; -moz-background-size: cover;-o-background-size: cover; background-size:cover;}
+.login{ height:300px;width:300px;padding: 20px;background-color: #f7f1f1;border-radius: 4px;position:absolute;left: 50%;top: 50%; margin:-150px 0 0 -150px;z-index:99;}
+.login h1{ text-align:center; color:#111111; font-size:24px; margin-bottom:20px; }
+.form_code{ position:relative; }
+.form_code .code{ position:absolute; right:0; top:1px; cursor:pointer; }
+.login_btn{ width:100%; }
+.footer{text-align: center;  position: fixed;  left: 0;  right: 0;  bottom: 0;  height: 44px;  line-height: 44px;  padding: 0 15px;  background-color: #eee;}
